@@ -16,7 +16,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
       >
         <div>
           <Link href="https://solpad.art/">
-            <img src="/logo.png" height={70} alt="" />
+            <img src="/logo.png" height={40} alt="" />
           </Link>
         </div>
         
@@ -33,15 +33,15 @@ export function AppLayout({ children }: { children: ReactNode }) {
       >
        <div >
           <Link href="https://twitter.com/Solpadnft">
-            <img src="/tw.png" height={40} />
+            <img src="/tw.png" height={30} />
           </Link>
 
           <Link href="https://discord.gg/jmMY8MrQCt">
-            <img src="/d.png" height={40} />
+            <img src="/d.png" height={30} />
           </Link>
           
           <Link href="https://github.com/Solpad-art">
-            <img src="/gi.png" height={40} />
+            <img src="/gi.png" height={30} />
           </Link>
         
         </div>

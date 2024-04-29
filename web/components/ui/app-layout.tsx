@@ -20,9 +20,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
           </Link>
         </div>
         
-        <div>
-          <WalletButton />
-        </div>
+        
       </div>
       <div style={{ flexGrow: 1, padding: '30px'}}>{children}</div>
       <footer

@@ -40,7 +40,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
             <img src="/d.png" height={30} />
           </Link>
           
-          <Link href="https://github.com/Solpad-art">
+          <Link href="https://github.com/Solpad-art/Jupiter-integration">
             <img src="/gi.png" height={30} />
           </Link>
         

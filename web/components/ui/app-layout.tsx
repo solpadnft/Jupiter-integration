@@ -31,7 +31,10 @@ export function AppLayout({ children }: { children: ReactNode }) {
           margin: '3em',
           }}
       >
-       <div >
+       <div style={
+          { display: 'flex', alignItems: 'center', gap: '20px'}}
+       
+       >
           <Link href="https://twitter.com/Solpadnft">
             <img src="/tw.png" height={30} />
           </Link>

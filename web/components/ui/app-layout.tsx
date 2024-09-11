@@ -35,12 +35,12 @@ export function AppLayout({ children }: { children: ReactNode }) {
           { display: 'flex', alignItems: 'center', gap: '20px'}}
        
        >
-          <Link href="https://www.linkedin.com/company/solpad-nft" target="_blank" rel="noreferrer">
+          <Link href="https://www.linkedin.com/company/solnm" target="_blank" rel="noreferrer">
             <img src="/li.png" height={30} />
           </Link>
          
 
-         <Link href="https://twitter.com/Solpadnft" target="_blank" rel="noreferrer">
+         <Link href="https://x.com/Solnmcom" target="_blank" rel="noreferrer">
             <img src="/tw.png" height={30} />
           </Link>
          
@@ -50,7 +50,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
           </Link>
 
           
-          <Link href="https://github.com/Solpad-art/Jupiter-integration" target="_blank" rel="noreferrer">
+          <Link href="https://github.com/Solnm" target="_blank" rel="noreferrer">
             <img src="/gi.png" height={30} />
           </Link>
         

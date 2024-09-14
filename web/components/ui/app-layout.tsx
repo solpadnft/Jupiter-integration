@@ -15,7 +15,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
         }}
       >
         <div>
-          <Link href="https://solpad.art/">
+          <Link href="https://solnm.com">
             <img src="/logo.png" height={40} alt="" />
           </Link>
         </div>
